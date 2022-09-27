@@ -1,0 +1,23 @@
+{
+    "name": "left-capsule",
+    "version": "0.1.0",
+    "description": "左侧胶囊",
+    "author": "qiuquan",
+    "license": "Apache-2.0",
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "仓库地址"
+    },
+    "files": [
+        "packages"
+    ],
+    "dependencies": {},
+    "devDependencies": {},
+    "browserslist": [
+        "Android >= 4",
+        "ios >= 8"
+    ]
+}
