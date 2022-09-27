@@ -46,7 +46,7 @@ export default {
       default: () => {
         return [
           {
-            label: 'menu12',
+            label: 'menu12-3',
             iconCls: '',
             uIconName: 'photo',
             type: 'page',

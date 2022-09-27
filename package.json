@@ -110,6 +110,9 @@
     "Android >= 4.4",
     "ios >= 9"
   ],
+  "files": [
+      "packages/components/*"
+  ],
   "resolutions": {
     "@babel/runtime": "~7.17.9"
   },
