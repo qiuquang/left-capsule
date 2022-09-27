@@ -111,7 +111,7 @@
     "ios >= 9"
   ],
   "files": [
-    "packages/components/*"
+    "packages/components/"
   ],
   "resolutions": {
     "@babel/runtime": "~7.17.9"
