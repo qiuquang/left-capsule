@@ -11,9 +11,6 @@
         "type": "git",
         "url": "仓库地址"
     },
-    "files": [
-        "packages/**"
-    ],
     "dependencies": {},
     "devDependencies": {},
     "browserslist": [
