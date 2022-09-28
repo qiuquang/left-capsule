@@ -1,6 +1,6 @@
 {
   "name": "left-capsule",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "scripts": {
     "docs:gen": "hjtvuese gen",
     "cmp": "node build/build-cmp.js cmp",
